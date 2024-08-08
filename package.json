@@ -12,12 +12,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "express-handlebars": "^7.1.3",
-<<<<<<< HEAD
-    "pg": "^8.12.0"
-=======
     "pg": "^8.12.0",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.37.3"
->>>>>>> 997e0fb55f76bcb56e42cdae55f35ddd862293b3
   }
 }
