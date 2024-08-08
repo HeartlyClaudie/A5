@@ -2,7 +2,7 @@
   {
     "studentNum": "1",
     "firstName": "Foster",
-    "lastName": "Thorburns",
+    "lastName": "Thorburnt",
     "email": "fthorburn0@mySeneca.ca",
     "addressStreet": "8 Arapahoe Park",
     "addressCity": "Toronto",
@@ -108,16 +108,16 @@
     "course": 1
   },
   {
-    "studentNum": 10,
+    "studentNum": "10",
     "firstName": "Beatrisa",
-    "lastName": "Wanne",
+    "lastName": "Wayne",
     "email": "bwanne9@mySeneca.ca",
     "addressStreet": "9 Lotheville Trail",
     "addressCity": "Toronto",
     "addressProvince": "ON",
     "TA": true,
     "status": "Full Time",
-    "course": 3
+    "course": "3"
   },
   {
     "studentNum": 11,
